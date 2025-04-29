@@ -56,7 +56,7 @@
     "slash": "^1.0.0",
     "sortablejs": "^1.5.1",
     "svg-to-pdfkit": "^0.1.8",
-    "svgcanvas": "^2.5.0",
+    "svgcanvas": "^2.6.0",
     "temp": "^0.8.3",
     "url-parse": "^1.4.7",
     "yargs": "^17.2.1"
